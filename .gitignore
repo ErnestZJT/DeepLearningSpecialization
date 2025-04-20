@@ -4,3 +4,7 @@
 *.txt
 *.ckpt
 __pycache__/
+*.mp4
+*.h5
+*.wav
+*.txt
