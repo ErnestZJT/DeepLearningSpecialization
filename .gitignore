@@ -14,3 +14,4 @@ Sequence Models/W2/Operations on Word Vectors - Debiasing/data/glove.6B.50d.txt
 *.npy
 *.h5
 *.txt
+.git/objects/pack/pack-7bfd6117a32f737deff3eb30949572c3ab54595d.pack
