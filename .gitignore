@@ -1,10 +1,7 @@
 *.mp4
 *.wav
 __pycache__/
+*.npy
+*.txt
+*.h5
 
-*.npy
-*.txt
-*.h5
-*.npy
-*.h5
-*.txt
